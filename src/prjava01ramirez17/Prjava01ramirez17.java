@@ -32,6 +32,8 @@ public class Prjava01ramirez17 {
             bw.write("    <title>");bw.newLine();
 
             bw.write("      Nova p&agrave;gina  web de cognom17");bw.newLine();
+            
+            bw.write("      DAW2 UF4 Pr&agrave;ctica 2");bw.newLine();
 
             bw.write("    </title>");bw.newLine();
 
